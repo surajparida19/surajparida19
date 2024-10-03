@@ -1,3 +1,5 @@
+![logo](https://github.com/surajparida19/surajparida19/blob/main/1.png)
+
 <h1 align="center">Hi 👋, I'm Suraj Parida</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
