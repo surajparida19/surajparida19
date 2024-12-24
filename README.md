@@ -1,7 +1,7 @@
 ![logo](https://github.com/surajparida19/surajparida19/blob/main/1.png)
 
 <h1 align="center">Hi 👋, I'm Suraj Parida</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate data analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajparida19&label=Profile%20views&color=0e75b6&style=flat" alt="surajparida19" /> </p>
 
